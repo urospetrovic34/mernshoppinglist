@@ -1,0 +1,3 @@
+module.exports = {
+    mongoURI: 'mongodb+srv://abcd1234:abcd1234@cluster0.quja7.mongodb.net/baza?retryWrites=true&w=majority'
+}
